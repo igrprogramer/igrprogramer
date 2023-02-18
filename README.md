@@ -1,9 +1,7 @@
 ### Prazer, me chamo Igor Henrique 🫶
 
 <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="400"><br>
-<hr>
-<h4> Aqui estão meus principais projetos <h4/>
-<hr>
+
 <h4> Tecnologias que uso <h4/>
 
 <div style="display: inlineblock"> <br/>
@@ -17,4 +15,3 @@
 <hr>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igrprogramer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
